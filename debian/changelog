@@ -1,3 +1,9 @@
+flatpak (1.10.1-1pop1) groovy; urgency=medium
+
+  * Pop!_OS backport
+
+ -- Ian Douglas Scott <idscott@system76.com>  Thu, 28 Jan 2021 13:36:02 -0800
+
 flatpak (1.10.1-1) unstable; urgency=medium
 
   * New upstream release
